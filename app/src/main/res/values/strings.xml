@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ComponentesUI</string>
+    <string name="android_scrollview_example">Android ScrollView</string>
+    <string name="ejemplo">Ejemplo</string>
+    <string name="ejemplo_1">Ejemplo 1</string>
+    <string name="ejemplo_2">ejemplo 2</string>
+    <string name="ejemplo_3">ejemplo 3</string>
+    <string name="ejemplo_4">ejemplo 4</string>
+    <string name="ejemplo_5">ejemplo 5</string>
+    <string name="ejemplo_6">ejemplo 6</string>
+    <string name="ejemplo_7">ejemplo 7</string>
+    <string name="ejemplo_8">ejemplo 8</string>
+    <string name="ejemplo_9">ejemplo 9</string>
+    <string name="ejemplo_10">ejemplo 10</string>
+    <string name="ejemplo_11">ejemplo 11</string>
+    <string name="boton_1">Boton 1</string>
+    <string name="boton_2">Boton 2</string>
+    <string name="boton_3">Boton 3</string>
+    <string name="boton_4">Boton 4</string>
+    <string name="boton_5">Boton 5</string>
+    <string name="boton_6">Boton 6</string>
+    <string name="boton_7">Boton 7</string>
+    <string name="boton_android">Boton Android</string>
+    <string name="bot_n_con_fondo">Botón con fondo</string>
+</resources>

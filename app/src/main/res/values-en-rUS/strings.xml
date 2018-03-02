@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_scrollview_example_1">Android ScrollView Example 1</string>
+    <string name="android_scrollview_example_2">Android ScrollView Example 2</string>
+    <string name="android_scrollview_example_3">Android ScrollView Example 3</string>
+</resources>
